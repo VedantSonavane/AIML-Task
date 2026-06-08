@@ -44,11 +44,6 @@ env/
 .env.local
 .env.*.local
 
-# Data Files (provided datasets)
-data/leads.csv
-data/interactions.csv
-data/*.csv
-
 # Large Model Files
 *.pkl
 *.joblib
